@@ -21,7 +21,7 @@
     "test:browser": "karma start test/karma_config.js --single-run"
   },
   "dependencies": {
-    "googleapis": "^16.1.0",
+    "googleapis": "^59.0.0",
     "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
